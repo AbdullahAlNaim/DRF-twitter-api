@@ -1,0 +1,10 @@
+# Python bytecode files
+__pycache__/
+
+twitter/__pycache__/
+
+# Local database file
+db.sqlite3
+
+# Sensitive settings file
+twitter_project/settings.py
